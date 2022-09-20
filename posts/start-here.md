@@ -40,9 +40,7 @@ We know it can be a little daunting when you're new. This guide is here to gentl
 
 ### What's a cryptocurrency?
 
-<div dir="rtl">
-ما هي العملة الرقمية؟
-</div>
+*ما هي العملة الرقمية؟*
 
 A cryptocurrency is just like a digital form of cash. You can use it to pay friends for your share of the bar tab, buy that new pair of socks you've been eyeing up 👀, or book flights ✈️ and hotels 🏨 for your next holiday. Because cryptocurrency is digital, it can also be sent to friends and family anywhere in the world.
 
