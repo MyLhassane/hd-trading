@@ -21,7 +21,7 @@ We know it can be a little daunting when you're new. This guide is here to gentl
 
 **Without further ado, let's dive down the rabbit hole.**
 
-<div dir="rtl">
+*
 
 ## مرحبا 👋
 
@@ -30,13 +30,11 @@ We know it can be a little daunting when you're new. This guide is here to gentl
 
 **بدون المزيد من التشويق، دعونا نغوص إلى الأعماق.**
 
-</div>
+*
 
 ![Cripto](/images/crypto-icon.svg) Cripto
 
-<div dir="rtl">
-العملة الرقمية
-</div>
+*العملة الرقمية*
 
 ### What's a cryptocurrency?
 
@@ -59,3 +57,4 @@ Well, not really. It's way more interesting!
 حسنًا، ليس حقًا. إنها أكثر إثارة للاهتمام!
 
 <br>
+
