@@ -7,9 +7,9 @@ const Layout = ({ children }) => {
         <header className='bg-fuchsia-100 mb-8 py-4'>
             <div className='container mx-auto flex justify-center'>
                 <Link href='/'>
-                    <a>🏡 &nbsp;</a>
+                    <a className='text-5xl'>🏡</a>
                 </Link>
-                <span className='mx-auto'>HD-Trading</span>
+                <span className='mx-auto text-3xl py-1'>HD-Trading</span>
             </div>
         </header>
         <main className='container mx-auto ceholder flex-1'>{ children }</main>
