@@ -34,8 +34,8 @@ export async function getStaticProps({ params: { slug } }) {
 export default function PostPage({ frontmattter, content }) {
     return (
         <div className='prose mx-auto'>
-            <h1>{frontmattter.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: md().render(content).replace('<em', '<div class="rtl"').replace('em>', 'div>') }} />
+            {/* <h3>{frontmattter.title}</h3> */}
+            <div className='m-4' dangerouslySetInnerHTML={{ __html: md().render(content).replaceAll('<em', '<div class="rtl"').replaceAll('em>', 'div>') }} />
         </div>
     )
 }

@@ -11,3 +11,6 @@ html {
     direction: rtl !important;
     text-align: right !important;
 }
+h1 {
+    font-size: 1.5em !important;
+}
