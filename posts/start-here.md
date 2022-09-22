@@ -135,7 +135,7 @@ So, this magical internet money isn't owned by anyone and uses cryptography to s
 
 But you've already got apps for paying people – why should you care?
 
-لذا، فإن أموال الإنترنت السحرية هذه ليست مملوكة لأي شخص وتستخدم التشفير لتأمين النظام. لكن لديك بالفعل تطبيقات للدفع للأشخاص - فلماذا عليك ان تهتم؟
+*لذا، فإن أموال الإنترنت السحرية هذه ليست مملوكة لأي شخص وتستخدم التشفير لتأمين النظام. لكن لديك بالفعل تطبيقات للدفع للأشخاص - فلماذا عليك ان تهتم؟*
 
 **It's**
 
