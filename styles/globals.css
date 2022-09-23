@@ -14,10 +14,69 @@ html {
 h1 {
     font-size: 1em !important;
 }
+table, thead, th, tr, td {
+    margin: 0  !important;
+    padding: 0  !important;
+}
+table {
+    border-collapse: initial !important;
+    font-size: 1rem !important;
+    line-height: 1.75 !important;
+    margin-bottom: 20px !important;
+}
+table th, table td {
+    padding: 10px !important;
+}
+th:before, th:after {
+    border-style: none !important;
+}
+
+th .rtl {
+    display: flex;
+    margin: 0 !important;
+    padding: 0 !important;
+    align-items: center;
+}
+
+li::marker {
+    /*content: '✝ ';*/
+    font-size: 1.5em;
+    color: red;
+    float: right !important;
+    direction: rtl !important;
+}
+
+ul:has(.rtl) {
+    direction: rtl;
+    margin-right: 20px;
+}
+
+th > img {
+    float: left;
+    width: 24px;
+    display: flex;
+    margin: 0  !important;
+    padding: 0  !important;
+    margin-right: 10px !important;
+}
+
+th > .rtl > img {
+    float: right;
+    width: 24px;
+    display: flex;
+    margin: 0  !important;
+    padding: 0  !important;
+    margin-left: 10px !important;
+}
 
 p > img {
     background: #02c077;
 }
 strong > img {
     background: transparent !important;
+}
+
+table {
+    border-radius: 16px;
+    box-shadow: rgb(20 21 26 / 10%) 0px 0px 1px, rgb(71 77 87 / 8%) 0px 7px 14px, rgb(20 21 26 / 8%) 0px 3px 6px;
 }

@@ -57,13 +57,9 @@ Because cryptocurrency is digital, it can also be sent to friends and family any
 
 *نظرًا لماهية العملة الرقمية الرقمية، فيمكن أيضًا إرسالها إلى الأصدقاء والعائلة في أي مكان في العالم.*
 
--
-
 Just like PayPal or bank transfers, right?
 
 Well, not really. It's way more interesting!
-
--
 
 *تمامًا مثل PayPal أو التحويلات المصرفية، أليس كذلك؟*
 
@@ -139,22 +135,39 @@ But you've already got apps for paying people – why should you care?
 
 *لكن لديك بالفعل تطبيقات للدفع للأشخاص - فلماذا عليك ان تهتم؟*
 
+---
+
 **It's**
 
-**![](/images/anchor-icon.png) Permissionless**
-
-No one can stop you from using cryptocurrency.
-
-Centralized payment services, on the other hand, can freeze accounts or prevent transactions from being made.
+| ![](/images/anchor-icon.png) Permissionless |
+| - |
+| No one can stop you from using cryptocurrency. Centralized payment services, on the other hand, can freeze accounts or prevent transactions from being made. |
 
 ***إنها***
 
-***![](/images/anchor-icon.png) لا تحتاج لإذن***
+| *![](/images/anchor-icon.png) لا تحتاج لإذن* |
+| - |
+| *لا أحد يستطيع أن يمنعك من استخدام العملة الرقمية. من ناحية أخرى، يمكن لخدمات الدفع المركزية تجميد الحسابات أو منع إجراء المعاملات.* |
 
-*لا أحد يستطيع أن يمنعك من استخدام العملة الرقمية.*
+| ![](/images/lock-icon.png) Censorship-resistant |
+| - |
+| Because of the way the network is designed, it's virtually impossible for hackers or other attackers to shut it down. |
 
-*من ناحية أخرى، يمكن لخدمات الدفع المركزية تجميد الحسابات أو منع إجراء المعاملات.*
+| *![](/images/lock-icon.png) مقاومة للرقابة* |
+| - |
+| *نظرًا للطريقة التي تم تصميم الشبكة بها، فإنه يكاد يكون من المستحيل على المخترقين أو المهاجمين الآخرين إغلاقها.* |
 
+| ![](/images/arrows-icon.png) A cheap and fast payment method |
+| - |
+| When you make a transaction to someone at the other side of the world, your money can be with them within seconds – at a fraction of the cost of an international wire transfer. |
+
+| *![](/images/arrows-icon.png) طريقة دفع رخيصة وسريعة* |
+| - |
+| *عندما تجري معاملة لشخص ما في الجانب الآخر من العالم، يمكن أن تكون أموالك معه في غضون ثوانٍ - بجزء بسيط من تكلفة التحويل الإلكتروني الدولي.* |
+
+---
+
+What about that ₿ Bitcoin thing your friend or family member keeps talking about? That's the original cryptocurrency, and, to date, the most popular.
 
 
 
